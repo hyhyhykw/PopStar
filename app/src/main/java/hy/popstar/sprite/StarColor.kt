@@ -12,5 +12,6 @@ enum class StarColor {
     BLUE,
     GREEN,
     YELLOW,
-    PURPLE
+    PURPLE,
+    NONE
 }
